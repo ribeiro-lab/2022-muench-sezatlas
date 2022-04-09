@@ -1,0 +1,12 @@
+Package: RmindPeek
+Type: Package
+Title: Data analysis functions for Münch et al. 2022
+Version: 1.0.0
+Author: Daniel Münch
+Maintainer: Daniel Münch <daniel@muench.bio>
+Description: Functions to perform data analysis of calcium imaging data in Münch et al. 2022.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Imports: tidyverse
+RoxygenNote: 7.1.2
